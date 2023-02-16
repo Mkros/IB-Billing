@@ -1,0 +1,19 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.table-auto{
+    position: absolute;
+    top: 1242px;
+    left: 295px;
+    border: 2px solid black;
+    line-height: 35px;
+}
+
+
+.tablerow{
+    border : 2px solid blue ;
+  }
